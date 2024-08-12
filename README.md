@@ -1,4 +1,4 @@
-# C13 - E-Commerce README
+# C13 - E-Commerce
 
 ## Description
 
