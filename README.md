@@ -32,11 +32,11 @@ This application provides a RESTful API for managing product categories, product
 
 [Demo Video](https://drive.google.com/file/d/1Bv9559CEImrF2O1yHpkrBVSZfoheiT70/view?usp=sharing) <----- View DEMO VIDEO
 
-![Example](./images/Example1.png)
+![Example 1](./images/Example1.png)
 
-![Example](./images/Example2.png)
+![Example 2](./images/Example2.png)
 
-![Example](./images/Example3.png)
+![Example 3](./images/Example3.png)
 
 ## Source Code
 
