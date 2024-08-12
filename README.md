@@ -30,7 +30,7 @@ This application provides a RESTful API for managing product categories, product
 
 ## Examples
 
-[Demo Video](./Video/C13-Ecommerce%20demo.mp4) <----- View DEMO VIDEO
+[Demo Video](https://drive.google.com/file/d/1Bv9559CEImrF2O1yHpkrBVSZfoheiT70/view?usp=sharing) <----- View DEMO VIDEO
 
 ![Example](./images/Example1.png)
 
